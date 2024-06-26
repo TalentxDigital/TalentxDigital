@@ -37,4 +37,4 @@ Para mais informações, visite o site da <a href="https://www.talentx.digital">
 ###
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TalentxLabs&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TalentxDigital&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
