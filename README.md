@@ -17,13 +17,15 @@
 
 ###
 
-<p align="left">TalentX Digital é uma empresa dedicada a transformar a gestão de talentos através da inovação, diversidade e excelência. Com uma abordagem centrada em inteligência artificial, a TalentX otimiza processos de recrutamento para torná-los mais justos e eficientes. A empresa se destaca por suas práticas de ESG (Environmental, Social, and Governance), comprometendo-se com a sustentabilidade e a responsabilidade social.
+<p align="left">TalentX Lab é a divisão de desenvolvimento de software da TalentX Digital, dedicada a oferecer soluções tecnológicas inovadoras e sob medida para empresas em diversos setores. A TalentX Lab se destaca pela capacidade de transformar ideias em produtos digitais eficientes e de alta qualidade, utilizando as mais recentes tecnologias e metodologias ágeis.
 
-Uma das principais ofertas da TalentX é o Squads as a Service, que proporciona equipes especializadas para projetos específicos, garantindo a flexibilidade e a agilidade necessárias para enfrentar desafios empresariais contemporâneos. Além disso, a empresa desenvolve programas de mentoria e treinamento em ética, preparando líderes para tomarem decisões responsáveis e sustentáveis.
+Na TalentX Lab, o foco é entender profundamente as necessidades dos clientes para entregar soluções personalizadas que atendam aos desafios específicos de cada negócio. A equipe é composta por especialistas em diversas áreas, incluindo desenvolvimento de software, design de interfaces, experiência do usuário e gerenciamento de projetos, garantindo que cada etapa do desenvolvimento seja cuidadosamente planejada e executada.
 
-A TalentX tem uma presença global, com atuação em várias regiões do Brasil, América Latina, EUA e Europa. Esse alcance internacional permite à empresa entender e adaptar-se às particularidades culturais e de mercado de diferentes regiões, proporcionando soluções personalizadas que atendem às necessidades específicas de cada cliente.
+Além disso, a TalentX Lab adota uma abordagem colaborativa, trabalhando lado a lado com os clientes para garantir que os produtos finais não apenas atendam, mas superem as expectativas. Essa parceria estreita permite ajustes contínuos e melhorias ao longo do processo de desenvolvimento, resultando em soluções mais eficazes e alinhadas com os objetivos estratégicos das empresas.
 
-A missão da TalentX vai além do simples recrutamento; a empresa busca inspirar e capacitar talentos, promovendo uma cultura de diversidade e inclusão. Através de parcerias estratégicas e tecnologias de ponta, a TalentX está redefinindo o futuro do trabalho, criando ambientes onde inovação e excelência são a norma.
+O portfólio da TalentX Lab inclui projetos variados, desde aplicativos móveis até sistemas corporativos complexos, sempre com um compromisso com a inovação e a excelência técnica. A empresa se orgulha de sua capacidade de entregar resultados que impulsionam o crescimento e a transformação digital de seus clientes, posicionando-os como líderes em seus respectivos mercados.
+
+Com a TalentX Lab, a TalentX reforça seu compromisso com a inovação e a qualidade, oferecendo aos clientes não apenas produtos de software, mas verdadeiras soluções que fazem a diferença no mundo digital.
 
 Para mais informações, visite o site da <a href="https://www.talentx.digital">TalentX.Digital</a>.
 </p>
