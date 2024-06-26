@@ -17,15 +17,15 @@
 
 ###
 
-<p align="left">TalentX Lab é a divisão de desenvolvimento de software da TalentX Digital, dedicada a oferecer soluções tecnológicas inovadoras e sob medida para empresas em diversos setores. A TalentX Lab se destaca pela capacidade de transformar ideias em produtos digitais eficientes e de alta qualidade, utilizando as mais recentes tecnologias e metodologias ágeis.
+<p align="left">TalentX Labs é a divisão de desenvolvimento de software da TalentX Digital, dedicada a oferecer soluções tecnológicas inovadoras e sob medida para empresas em diversos setores. A TalentX Labs se destaca pela capacidade de transformar ideias em produtos digitais eficientes e de alta qualidade, utilizando as mais recentes tecnologias e metodologias ágeis.
 
-Na TalentX Lab, o foco é entender profundamente as necessidades dos clientes para entregar soluções personalizadas que atendam aos desafios específicos de cada negócio. A equipe é composta por especialistas em diversas áreas, incluindo desenvolvimento de software, design de interfaces, experiência do usuário e gerenciamento de projetos, garantindo que cada etapa do desenvolvimento seja cuidadosamente planejada e executada.
+Na TalentX Labs, o foco é entender profundamente as necessidades dos clientes para entregar soluções personalizadas que atendam aos desafios específicos de cada negócio. A equipe é composta por especialistas em diversas áreas, incluindo desenvolvimento de software, design de interfaces, experiência do usuário e gerenciamento de projetos, garantindo que cada etapa do desenvolvimento seja cuidadosamente planejada e executada.
 
-Além disso, a TalentX Lab adota uma abordagem colaborativa, trabalhando lado a lado com os clientes para garantir que os produtos finais não apenas atendam, mas superem as expectativas. Essa parceria estreita permite ajustes contínuos e melhorias ao longo do processo de desenvolvimento, resultando em soluções mais eficazes e alinhadas com os objetivos estratégicos das empresas.
+Além disso, a TalentX Labs adota uma abordagem colaborativa, trabalhando lado a lado com os clientes para garantir que os produtos finais não apenas atendam, mas superem as expectativas. Essa parceria estreita permite ajustes contínuos e melhorias ao longo do processo de desenvolvimento, resultando em soluções mais eficazes e alinhadas com os objetivos estratégicos das empresas.
 
-O portfólio da TalentX Lab inclui projetos variados, desde aplicativos móveis até sistemas corporativos complexos, sempre com um compromisso com a inovação e a excelência técnica. A empresa se orgulha de sua capacidade de entregar resultados que impulsionam o crescimento e a transformação digital de seus clientes, posicionando-os como líderes em seus respectivos mercados.
+O portfólio da TalentX Labs inclui projetos variados, desde aplicativos móveis até sistemas corporativos complexos, sempre com um compromisso com a inovação e a excelência técnica. A empresa se orgulha de sua capacidade de entregar resultados que impulsionam o crescimento e a transformação digital de seus clientes, posicionando-os como líderes em seus respectivos mercados.
 
-Com a TalentX Lab, a TalentX reforça seu compromisso com a inovação e a qualidade, oferecendo aos clientes não apenas produtos de software, mas verdadeiras soluções que fazem a diferença no mundo digital.
+Com a TalentX Labs, a TalentX reforça seu compromisso com a inovação e a qualidade, oferecendo aos clientes não apenas produtos de software, mas verdadeiras soluções que fazem a diferença no mundo digital.
 
 Para mais informações, visite o site da <a href="https://www.talentx.digital">TalentX.Digital</a>.
 </p>
